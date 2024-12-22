@@ -1,4 +1,4 @@
-# Hospital Management System
+# E-Health Management System
 
 ## Introduction
 This is a **Java-based Hospital Management System** designed to manage patient records, diagnosis information, and billing details in a streamlined and user-friendly manner. The system allows users to:
